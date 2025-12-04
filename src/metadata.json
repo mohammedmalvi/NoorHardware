@@ -1,0 +1,5 @@
+{
+  "name": " Noor Hardware",
+  "description": "A premium hardware e-commerce platform powered by Gemini AI, featuring advanced tools for builders and creators.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
